@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="navbar-container">
       <div className="links-container">
-        <a>refundberry</a>
+        <a className='logo'>refundberry</a>
         <a>How it Works</a>
         <a>FAQ</a>
       </div>
