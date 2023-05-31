@@ -17,12 +17,12 @@ export default function Middle() {
       {/*<h2>How it Works</h2>*/}
       <div className='steps-section'>
         <div>
-          <img src="./assets/icons8-click-94.png" alt=""/>
+          <img src="./assets/icons8-done-94.png" alt=""/>
           <h2>01 Select Refundberry</h2>
           <p>Upload your reciept and total amount to our online platform</p>
         </div>
         <div>
-          <img src="./assets/icons8-dollar-coin-94.png" alt=""/>
+          <img src="./assets/icons8-receive-cash-96.png" alt=""/>
           <h2>02 Get Your Instant Refund</h2>
           <p>Your refund will reach your nominated bank in one day tops</p>
         </div>

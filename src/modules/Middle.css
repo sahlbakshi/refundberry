@@ -33,13 +33,14 @@
     font-size: large;
     font-weight: bolder;
     border-radius: 5px;
+    background-color: rgb(80, 130, 255);
     border: 2px solid black;
+    color: black;
 }
 
 .get-started-button:hover {
     cursor: pointer;
-    background-color: black;
-    color: white;
+    text-decoration: underline;
 } 
 
 .steps {
@@ -54,5 +55,5 @@
     padding-top: 60px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 80px;
+    grid-gap: 70px;
 }
