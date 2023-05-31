@@ -10,23 +10,23 @@ export default function Middle() {
         <button className='get-started-button'>Get Started Now</button>
     </div>
     <div className='image-container'>
-      <img height="600px" src="../public/assets/palceholder.png" alt=""/>
+      <img height="600px" src="./assets/palceholder.png" alt=""/>
     </div>
     <div className='steps'>
       <h2>How it Works</h2>
       <div className='steps-section'>
         <div>
-          <img src="../public/assets/icons8-1-64.png" alt=""/>
+          <img src="./assets/icons8-1-64.png" alt=""/>
           <h4>Select Refundberry</h4>
           <p>Upload your reciept and total amount to our online platform</p>
         </div>
         <div>
-          <img src="../public/assets/icons8-2-64.png" alt=""/>
+          <img src="./assets/icons8-2-64.png" alt=""/>
           <h4>Get Your Instant Refund</h4>
           <p>Your refund will reach your nominated bank in one day tops</p>
         </div>
         <div>
-          <img src="../public/assets/icons8-3-64.png" alt=""/>
+          <img src="./assets/icons8-3-64.png" alt=""/>
           <h4>Return/Ship Later</h4>
           <p>Ship or return your items at your convenience</p>
         </div>
