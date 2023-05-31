@@ -1,4 +1,4 @@
-import '../public/modules/Middle.css'
+import './modules/Middle.css'
 
 export default function Middle() {
   return (
